@@ -1,8 +1,6 @@
 # Aspose.JMAP FOSS for Python
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![PyPI version](https://img.shields.io/pypi/v/aspose-jmap-foss.svg)](https://pypi.org/project/aspose-jmap-foss/) [![Python versions](https://img.shields.io/pypi/pyversions/aspose-jmap-foss.svg)](https://pypi.org/project/aspose-jmap-foss/) [![Contributors](https://img.shields.io/github/contributors/aspose-email-foss/Aspose.JMAP-FOSS-for-Python.svg)](https://github.com/aspose-email-foss/Aspose.JMAP-FOSS-for-Python/graphs/contributors)
-
-[![Aspose.JMAP FOSS for Python](https://products.aspose.org/media/jmap/python/banner-readme.png)](https://products.aspose.org/jmap/python/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Contributors](https://img.shields.io/github/contributors/aspose-email-foss/Aspose.JMAP-FOSS-for-Python.svg)](https://github.com/aspose-email-foss/Aspose.JMAP-FOSS-for-Python/graphs/contributors)
 
 Aspose.JMAP FOSS for Python is a free, open source, pure-Python JMAP client library — a toolkit
 for talking to a [JMAP](https://jmap.io) mail server over HTTP:
@@ -168,16 +166,10 @@ raw method calls for `send_request()`. Errors surface as `JmapNetworkError` (tra
 `JmapProtocolError` (a JMAP method-level error); per-item `Set` failures are returned as data on
 the result object rather than raised.
 
-The full protocol/API reference, rendered from the same specs that drive generation, is
-[`docs/api-reference.md`](../../docs/api-reference.md) at the repository root.
+The protocol/API reference is generated from the same specifications that drive this library.
 
 ## Documentation & Resources
 
-- **[Getting started guide](https://docs.aspose.org/jmap/python/)** — installation and walkthroughs.
-- **[API reference](https://reference.aspose.org/jmap/python/)** — browsable reference for the public types.
-- **[How-to guides & FAQ](https://kb.aspose.org/jmap/python/)** — task-focused answers.
-- **[Protocol/API reference](../../docs/api-reference.md)** — the in-repo reference rendered from the specs.
-- **[Changelog](../../CHANGELOG.md)**, **[Contributing guide](../../CONTRIBUTING.md)**, **[Security policy](../../SECURITY.md)**.
 - Found a bug or have a feature request? [Open an issue](https://github.com/aspose-email-foss/Aspose.JMAP-FOSS-for-Python/issues) on GitHub.
 
 ## Scope and Limitations
